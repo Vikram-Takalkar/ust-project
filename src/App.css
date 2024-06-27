@@ -1,0 +1,17 @@
+.header {
+    background-color: #2166b5;
+    padding: 5px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.footer {
+    background: #77abe6;
+    padding: 5px;
+    text-align: center;
+    font-size: 12px;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px; 
+}
